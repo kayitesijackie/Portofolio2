@@ -229,9 +229,9 @@ a {
 }
 .header__subtitle {
   display: inline-block;
-  background-color: #8d94ba;
+  background-color: #fff;
   padding: 3px 15px;
-  color: #fff;
+  color: #ff789e;
   font-size: 1.8em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -248,10 +248,10 @@ a {
   border-bottom-color: transparent;
   border-top-color: transparent;
   width: 220px;
-  background-color: #8d94ba;
+  background-color: #fff;
   border-radius: 25px;
   padding: 5px 0;
-  color: #fff;
+  color: #ff789e;
   font-size: 1.3em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -365,8 +365,8 @@ a {
   margin: 0.5em 0 1em 0;
   padding: 5px 20px 3px;
   border-radius: 26px;
-  background-color: #8d94ba;
-  color: #fff;
+  background-color: white;
+  color: #ff789e;
   font-size: 1em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
